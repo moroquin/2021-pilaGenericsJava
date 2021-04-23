@@ -14,9 +14,9 @@ Las opciones disponibles son
 * **ant run**: depende de run y ejecuta el jarFile generado
 * **ant javadoc**: No tiene dependencias. Crea la carpeta javadoc, y genera el javadoc del proyecto.
 * **ant clean**: elimina las carpetas que se han creado
- * build
- * dist
- * javadoc
+    * build
+    * dist
+    * javadoc
 
 ### Por defecto
 
